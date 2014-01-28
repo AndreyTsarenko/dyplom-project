@@ -23,7 +23,7 @@ define(["../../View", "text!./track_template.xml"], function (View, Template) {
                 } else {
                     this.model.disActive();
                 }
-            }.bind(this))
+            }.bind(this));
         },
         /**
          *

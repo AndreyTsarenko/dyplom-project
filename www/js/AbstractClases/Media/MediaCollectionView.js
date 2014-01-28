@@ -22,7 +22,29 @@ define(["../../View"], function(View) {
             options.render_to.append(this.$el);
             this.$audio_container = this.$el.find(this.containerId);
             this.$audio_player = this.$el.find(this.playerId)[0];
+            this.$addEventListeners();
             this.$addEventToCollection();
+        },
+        /**
+         *
+         */
+        $addEventListeners: function () {
+            this.$el.find(".filter").on ("click", function () {
+                var coll = this.collection.toJSON();
+                var arr = [
+                    coll[1],
+                    coll[2]
+                ];
+                debugger;
+                $.ajax({
+                    type: "POST",
+                    url: "/download.zip",
+                    data: "data=" + JSON.stringify(arr),
+                    success: function () {
+                        alert("123");
+                    }
+                });
+            }.bind(this));
         },
         /**
          *

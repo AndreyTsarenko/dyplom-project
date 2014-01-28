@@ -17,7 +17,7 @@
     <file path="/ObjectListener.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1387890899710" ignored="false" />
     <file path="/CollectionView.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1389278548153" ignored="false" />
     <file path="/ModelView.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1389278003681" ignored="false" />
-    <file path="/template.xml" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390777585604" ignored="false" />
+    <file path="/template.xml" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390918686644" ignored="false" />
     <file path="/PageModelView.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1389638625477" ignored="false" />
     <file path="/Pages.css" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1389651753516" ignored="false" />
     <file path="/PlayerControllsModel.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390662330523" ignored="false" />
@@ -31,17 +31,18 @@
     <file path="/AudioCollection.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390658307568" ignored="false" />
     <file path="/track_template.xml" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390771570112" ignored="false" />
     <file path="/AudioCollectionView.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390659398154" ignored="false" />
-    <file path="/AudioModelView.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1389759314775" ignored="false" />
+    <file path="/AudioModelView.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390918524095" ignored="false" />
     <file path="/Audio.css" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1389715614552" ignored="false" />
     <file path="/AudioModel.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390660388136" ignored="false" />
     <file path="/AudioContainer.css" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1389749243095" ignored="false" />
     <file path="/*.regexp" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390757256573" ignored="false" />
-    <file path="/MediaCollectionView.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390659385487" ignored="false" />
+    <file path="/MediaCollectionView.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390922462889" ignored="false" />
     <file path="/MediaModelView.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390662157454" ignored="false" />
     <file path="/Media.css" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390739004664" ignored="false" />
     <file path="/Video.css" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390776136903" ignored="false" />
     <file path="/VideoModelView.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390778121899" ignored="false" />
     <file path="/VideoModel.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390786732851" ignored="false" />
+    <file path="/server.js" changelist="d0e841ff-2f3f-41e1-a606-e639f146ac51" time="1390925306402" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,80 +60,90 @@
     <favorites_list name="Dyplom" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="VideoModelView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoModelView.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="29" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VideoCollectionView.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoCollectionView.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="16" selection-start="524" selection-end="532" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="template.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/template.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="318" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Video.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/css/Video.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="27" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VideoModel.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoModel.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="3" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="VideoCollection.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoCollection.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="3" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="track_template.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/track_template.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="6" selection-start="0" selection-end="278" vertical-scroll-proportion="0.14366198">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="17" selection-start="1415" selection-end="1435" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.36975944">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/www/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="33" column="62" selection-start="1509" selection-end="1509" vertical-scroll-proportion="-21.576923">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="template.xml" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/template.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="1" column="24" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MediaCollectionView.js" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/www/js/AbstractClases/Media/MediaCollectionView.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="29" column="11" selection-start="839" selection-end="839" vertical-scroll-proportion="0.05349345">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AudioCollectionView.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/AudioCollectionView.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AudioModel.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/AudioModel.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="AudioModelView.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/AudioModelView.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="26" column="10" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/www/server.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="29" column="9" selection-start="833" selection-end="833" vertical-scroll-proportion="-8.44">
+                  <folding>
+                    <marker date="1390926094174" expanded="true" signature="415:517" placeholder="//..." />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="server.js" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/www/server.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="34" column="16" selection-start="921" selection-end="921" vertical-scroll-proportion="0.50378376">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -142,14 +153,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/www/js/Components/PlayerControlls/PlayerControllsModelView.js" />
-        <option value="$PROJECT_DIR$/www/js/Components/PlayerControlls/PlayerControllsModel.js" />
-        <option value="$PROJECT_DIR$/www/js/Components/AudioPage/template.xml" />
-        <option value="$PROJECT_DIR$/www/js/index.js" />
         <option value="$PROJECT_DIR$/www/css/Audio.css" />
         <option value="$PROJECT_DIR$/www/css/Media.css" />
         <option value="$PROJECT_DIR$/www/js/Components/StartPage/StartPageModel.js" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/www/js/Components/AudioPage/track_template.xml" />
         <option value="$PROJECT_DIR$/www/js/App.js" />
         <option value="$PROJECT_DIR$/www/js/Components/VideoPage/track_template.xml" />
@@ -158,14 +164,19 @@
         <option value="$PROJECT_DIR$/www/js/Components/VideoPage/template.xml" />
         <option value="$PROJECT_DIR$/www/js/Components/VideoPage/VideoModelView.js" />
         <option value="$PROJECT_DIR$/www/js/Components/VideoPage/VideoModel.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/js/Components/AudioPage/AudioModelView.js" />
+        <option value="$PROJECT_DIR$/www/js/Components/AudioPage/template.xml" />
+        <option value="$PROJECT_DIR$/www/js/AbstractClases/Media/MediaCollectionView.js" />
+        <option value="$PROJECT_DIR$/www/server.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
-    <option name="y" value="240" />
-    <option name="width" value="1296" />
-    <option name="height" value="816" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -181,7 +192,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -192,18 +203,190 @@
       <autoscrollFromSource />
       <sortByType />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StartPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AudioPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyplom-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AbstractClases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -243,16 +426,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="240" width="1296" height="816" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2421875" sideWeight="0.6494565" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2421875" sideWeight="0.670082" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991803" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -332,78 +515,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/AudioModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="25" selection-start="292" selection-end="449" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="26" selection-start="260" selection-end="260" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/Audio.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="202" selection-end="323" vertical-scroll-proportion="-3.4" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/Media.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="16" selection-start="759" selection-end="759" vertical-scroll-proportion="1.0066372" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/Components/StartPage/StartPageModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="43" selection-start="1358" selection-end="1358" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="163" column="34" selection-start="5011" selection-end="5011" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="17" selection-start="1415" selection-end="1435" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/css/Video.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="27" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoModel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="3" selection-start="431" selection-end="431" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoModelView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="29" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoCollection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="3" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoCollectionView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="16" selection-start="524" selection-end="532" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/track_template.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
@@ -411,9 +522,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/template.xml">
+    <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoModelView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="6" selection-start="285" selection-end="285" vertical-scroll-proportion="0.1915493">
+        <state line="35" column="29" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.5168421">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoCollectionView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="16" selection-start="524" selection-end="532" vertical-scroll-proportion="0.26842105">
           <folding />
         </state>
       </provider>
@@ -425,9 +543,86 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/Video.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="27" selection-start="787" selection-end="787" vertical-scroll-proportion="0.5347369">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="3" selection-start="431" selection-end="431" vertical-scroll-proportion="0.3042105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/VideoCollection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="3" selection-start="456" selection-end="456" vertical-scroll-proportion="0.2505263">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/www/js/Components/VideoPage/track_template.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="6" selection-start="0" selection-end="278" vertical-scroll-proportion="0.14366198">
+        <state line="6" column="6" selection-start="0" selection-end="278" vertical-scroll-proportion="0.107368425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="62" selection-start="1509" selection-end="1509" vertical-scroll-proportion="-21.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/AudioModel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/AudioModelView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="10" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/AbstractClases/Media/MediaCollection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.002105263">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/template.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="24" selection-start="50" selection-end="50" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/Components/AudioPage/AudioCollectionView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/AbstractClases/Media/MediaCollectionView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="11" selection-start="839" selection-end="839" vertical-scroll-proportion="0.05349345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="16" selection-start="921" selection-end="921" vertical-scroll-proportion="0.50378376">
           <folding />
         </state>
       </provider>
