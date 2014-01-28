@@ -1,0 +1,45 @@
+#navigation {
+   background-color: #FF433C;
+   position: fixed;
+   top: .4em;
+   /*left: 0.4em;*/
+   width: 9em;
+   height: 100%;
+   float: left;
+   z-index: 999;
+}
+#navigation .btn {
+    display: block;
+
+    height: 3em;
+    font-size: 2em;
+    padding-left: 20px;
+    color: rgb(97, 33, 33);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*font-size: 2em;*/
+}
+#navigation .Photo {
+    background-image: url("../img/system/photos1.png");
+}
+#navigation .Settings {
+    background-image: url("../img/system/cogs2.png");
+    background-size: auto 90%;
+}
+#navigation .Video {
+    background-image: url("../img/system/cinema1.png");
+}
+#navigation .Audio {
+    background-image: url("../img/system/audio28.png");
+    background-size: auto 90%;
+}
+#navigation .Start {
+    background-image: url("../img/system/login6.png")
+}
+#navigation .btn:hover {
+    background-color: #c53a2f;
+}
+#navigation a[active=true] {
+    background-color: #d84034;
+}

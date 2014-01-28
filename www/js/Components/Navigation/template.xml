@@ -1,0 +1,3 @@
+<a class="btn <%= title %>" draggable="false" href="<%= href %>">
+    <!--<%= title %>-->
+</a>

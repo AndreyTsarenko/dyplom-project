@@ -1,0 +1,14 @@
+<div class="main-page-container">
+    <div>
+        <div class="vk logo btn" data-social="vk"></div>
+    </div>
+    <div>
+        <div class="facebook logo btn btn" data-social="facebook"></div>
+    </div>
+    <div>
+        <div class="youbube logo btn" data-social="youbube"></div>
+    </div>
+    <div>
+        <div class="myspase logo btn" data-social="myspase"></div>
+    </div>
+</div>

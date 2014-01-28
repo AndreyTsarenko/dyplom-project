@@ -1,0 +1,45 @@
+.page .media .search {
+    left: 1.07em;
+    right: 1.07em;
+    background-color: white;
+    line-height:  1em;
+    vertical-align: middle;
+    border-radius:  12px;
+    padding-left: 10px;
+    padding-right: 1em;
+    outline: none;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.page .media {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.page .media .search:empty:not(:focus):before {
+    content: attr(text);
+}
+.page .media .search-button {
+    background-image: url("../img/system/search4.png");
+    border-radius: 12px;
+    background-color: white;
+    right: .49em;
+}
+.page .media .header>div {
+    font-size: 3em;
+    height: 1em;
+    position: absolute;
+    top: 50%;
+    margin-top: -.5em;
+}
+.page .media .header {
+    height: 4em;
+    top: .6em;
+    position: relative;
+}
+.page .media .search-button, .page  .media .filter {
+    width: 1em;
+    background-size: 90% 90%;
+    background-position: center;
+    background-repeat: no-repeat;
+}

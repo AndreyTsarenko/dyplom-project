@@ -1,0 +1,11 @@
+<div class="player_controller <%= className %>">
+    <div class="backward btn"></div>
+    <div class="play btn"></div>
+    <div class="forward btn"></div>
+    <div class="time btn"></div>
+    <div class="progress-bar">
+        <div class="indicator"></div>
+    </div>
+    <div class="download btn"></div>
+    <div class="volume btn"></div>
+</div>

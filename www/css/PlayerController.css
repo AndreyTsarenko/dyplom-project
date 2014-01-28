@@ -1,0 +1,70 @@
+.player_controller.main-controls {
+    left: 3em;
+    font-size: 4em;
+    position: fixed;
+    right: 1em;
+    top: .3em;
+}
+.audio-container .track .player_controller {
+    font-size: 3em;
+    height: 1em;
+    width: 100%;
+    margin: 0;
+    position: relative;
+}
+.player_controller>.btn {
+    width: .8em;
+    height: .8em;
+    margin: .1em;
+    float: left;
+}
+.player_controller .download, .player_controller .volume {
+    float: right;
+}
+.player_controller .download {
+    background-image: url("../img/system/download.png") ;
+}
+.player_controller .volume {
+    background-image: url("../img/system/music143.png");
+}
+.player_controller .backward  {
+    background-image: url("../img/system/backward.png") ;
+}
+.player_controller .progress-bar .indicator {
+    height: 100%;
+    width: 0;
+    background-color: #000101;
+    border-radius: 5px;
+    pointer-events: none;
+}
+.player_controller .progress-bar {
+    height: .8em;
+    top: .1em;
+    position: absolute;
+    left: 5em;
+    right: 2em;
+    background-color: #c8443d;
+    border-radius: 5px;
+}
+.player_controller .time:after {
+    font-size: .5em;
+    position: absolute;
+    top: 50%;
+    right: 0.9em;
+    line-height: 0;
+    content: attr(time);
+}
+.player_controller .time {
+    width: 1.8em;
+    position: relative;
+}
+.player_controller .play,
+.player_controller[play=false] .play {
+    background-image: url("../img/system/play.png");
+}
+.player_controller[play=true] .play {
+    background-image: url("../img/system/pause.png");
+}
+.player_controller .forward {
+    background-image: url("../img/system/forward3.png") ;
+}

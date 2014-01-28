@@ -1,0 +1,36 @@
+.main-page-container {
+    width: 100%;
+    height: 100%;
+}
+.main-page-container>div {
+    float: left;
+    width: 50%;
+    height: 50%;
+    position: relative;
+}
+.main-page-container .logo {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: absolute;
+    left: 15%;
+    right: 15%;
+    top: 15%;
+    bottom: 15%;
+}
+.main-page-container div[state=disactive] {
+    opacity: 0.1;
+    pointer-events: none;
+}
+.main-page-container .myspase  {
+    background-image: url("../img/social/MySpage.png");
+}
+.main-page-container .youbube {
+    background-image: url("../img/social/youtube.jpg");
+}
+.main-page-container .facebook {
+    background-image: url("../img/social/fasebook.png");
+}
+.main-page-container .vk {
+     background-image: url("../img/social/vkontakte.jpg");
+}

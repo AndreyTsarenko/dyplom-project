@@ -1,0 +1,5 @@
+<div class="track" url="<%= url %>">
+    <div class="play btn"></div>
+    <div class="label"><%= artist %> - <%= title %></div>
+    <div class="track-time"><%= track_time %></div>
+</div>

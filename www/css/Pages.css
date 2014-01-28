@@ -1,0 +1,14 @@
+#pages {
+    background-color: #d84034;
+    position: fixed;
+    left: 9em;
+    right: 0;
+    bottom: 0;
+    top: 6.4em;
+    z-index: 0;
+}
+#pages .page {
+    display: none;
+    width: 100%;
+    height: 100%;
+}

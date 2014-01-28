@@ -1,0 +1,9 @@
+<div class="audio media">
+    <div class="header">
+        <div class="filter btn"></div>
+        <div class="search" contenteditable="true" text="Search"></div>
+        <div class="search-button btn"></div>
+    </div>
+    <div class="audio-container"></div>
+    <audio></audio>
+</div>

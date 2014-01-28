@@ -1,0 +1,59 @@
+.page .audio>div {
+    width: 90%;
+    position: absolute;
+    left: 5%;
+    /*background-color: #E2CECE;*/
+}
+.page.audio-page .audio .search-button, .page.audio-page .audio .filter {
+    width: 1em;
+    background-size: 90% 90%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.page .video-container {
+    left: 1em;
+    right: 81em;
+    top: 5em;
+    bottom: 1em;
+    position: absolute;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+.video-player-container {
+    top: 5em;
+    position: absolute;
+    background-color: black;
+    right: 1em;
+    width: 80em;
+    height: 50em;
+}
+.video_image.btn {
+    width: 15em;
+    height: 11em;
+}
+.video-container .video>div {
+    display: inline-block;
+}
+.video-container .video[active=true] {
+    background-color: gray;
+}
+.video-container .video {
+    width: 100%;
+    position: relative;
+}
+.video-container .video_info .title {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.video-container .video_info {
+    padding: 10px;
+    left: 15em;
+    right: 0;
+    top: 0;
+    bottom:0;
+    position: absolute;
+    overflow: hidden;
+}

@@ -1,0 +1,7 @@
+<div class="video">
+    <div class="video_image btn" style="background-image:url(<%= image %>)" time="<%= track_time %>"></div>
+    <div class="video_info">
+        <div class="title"><%= title %></div>
+        <div class="description"><%= description %></div>
+    </div>
+</div>

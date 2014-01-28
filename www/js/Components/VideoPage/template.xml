@@ -1,0 +1,9 @@
+<div class="video media">
+    <div class="header">
+        <div class="filter btn"></div>
+        <div class="search" contenteditable="true" text="Search"></div>
+        <div class="search-button btn"></div>
+    </div>
+    <div class="video-container"></div>
+    <iframe class="video-player-container"></iframe>
+</div>
