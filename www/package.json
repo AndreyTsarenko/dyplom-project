@@ -1,0 +1,26 @@
+{
+  "name": "dyplom",
+  "version": "0.0.1",
+  "description": "DyplomProject Andrey Tsarenko",
+  "main": "server.js",
+  "dependencies": {
+    "archiver": "~0.5.2",
+    "express": "~3.4.8",
+    "tar": "~0.1.19",
+    "async": "~0.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndreyTsarenko/dyplom-project"
+  },
+  "author": "",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/AndreyTsarenko/dyplom-project/issues"
+  }
+}
